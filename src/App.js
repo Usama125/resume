@@ -41,14 +41,6 @@ function App() {
                usamafarooq2007@gmail
              </div>
            </li>
-           <li>
-             <div class="icon">
-               <i class="fab fa-weebly"></i>
-             </div>
-             <div class="data">
-               www.stephen.com
-             </div>
-           </li>
          </ul>
        </div>
        <div class="resume_item resume_skills">
@@ -103,49 +95,6 @@ function App() {
            </li>
          </ul>
        </div>
-       <div class="resume_item resume_social">
-         <div class="title">
-           <p class="bold">Social</p>
-         </div>
-         <ul>
-           <li>
-             <div class="icon">
-               <i class="fab fa-facebook-square"></i>
-             </div>
-             <div class="data">
-               <p class="semi-bold">Facebook</p>
-               <p>Stephen@facebook</p>
-             </div>
-           </li>
-           <li>
-             <div class="icon">
-               <i class="fab fa-twitter-square"></i>
-             </div>
-             <div class="data">
-               <p class="semi-bold">Twitter</p>
-               <p>Stephen@twitter</p>
-             </div>
-           </li>
-           <li>
-             <div class="icon">
-               <i class="fab fa-youtube"></i>
-             </div>
-             <div class="data">
-               <p class="semi-bold">Youtube</p>
-               <p>Stephen@youtube</p>
-             </div>
-           </li>
-           <li>
-             <div class="icon">
-               <i class="fab fa-linkedin"></i>
-             </div>
-             <div class="data">
-               <p class="semi-bold">Linkedin</p>
-               <p>Stephen@linkedin</p>
-             </div>
-           </li>
-         </ul>
-       </div>
      </div>
   </div>
   <div class="resume_right">
@@ -154,6 +103,12 @@ function App() {
            <p class="bold">About us</p>
          </div>
         <p>I am a passionate web application and serves as a Full Stack JavaScript Engineer @Nextbridge in Lahore Pakistan. I have approximately 2 and a half years of web development experience in 4 major software companies in Pakistan and now want to represent myself on the next level. I have worked in major PHP frameworks like Laravel, CodeIgniter and Yii 2 as well as has strong JavaScript background with Vanilla JavaScript, JQuery, AJAX along with hands-on experience in front end frameworks like React.js, Vue.js and Node.js ( Express.js ) with microservices architecture as serverside JavaScript technology and hands-on experience with React Native. I would be very happy to represent any of the multinational company weather its within the borders or across the borders.</p>
+        <br/>
+        <div class="title">
+           <p class="bold">Website</p>
+         </div>
+         <p>I would highly recommend visit my site to see my work and experience in more depth</p>
+         <a href="https://5f269192b915070007222dc7--relaxed-volhard-611221.netlify.app/" target="_blank">Usama Farooq</a>
     </div>
     <div class="resume_item resume_work">
         <div class="title">
